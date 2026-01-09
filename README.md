@@ -1,0 +1,2 @@
+# HospitalManagementSystemApplication
+一个医院物资管理平台，我的课设
