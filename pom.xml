@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
 
     <name>医院信息管理系统</name>
-    <description>基于Spring Boot的医院信息管理系�?/description>
+    <description>基于Spring Boot的医院信息管理系�</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
